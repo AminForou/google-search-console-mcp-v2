@@ -1,0 +1,17 @@
+# Web framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+starlette>=0.27.0
+
+# Google APIs
+google-api-python-client>=2.0.0
+google-auth>=2.0.0
+google-auth-oauthlib>=1.2.1
+
+# MCP
+mcp>=1.6.0
+
+# For production
+gunicorn>=21.0.0
+
